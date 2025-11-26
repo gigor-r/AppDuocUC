@@ -1,0 +1,12 @@
+Nombre del proyecto: PokeShop
+Integrantes: Ángel Guillen, Gabriel Igor
+Funcionalidades: > Permite inicio de seión y registro con conexión a backend.
+		 > Guarda y verificar ususario.
+		 > Extrae catálogo de venta de la base de datos.
+		 > Incluye sección Qr.
+		 > Barra de búsqueda sin finalizar.
+endPoints: > Microservicio de usuario.
+           > Microservicio de Catálogo.
+Pasos: 	> Iniciar App
+	> Iniciar BD
+	> Iniciar microservicios
